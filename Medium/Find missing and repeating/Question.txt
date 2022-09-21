@@ -1,0 +1,3 @@
+Problem statement -> Find missing and repeating
+
+Problem link -> https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?ref=gcse
