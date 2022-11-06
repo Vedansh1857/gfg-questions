@@ -1,0 +1,3 @@
+Problem statement -> Given a sentence in the form of a string, convert it into its equivalent mobile numeric keypad sequence.
+
+Problem link -> https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/
