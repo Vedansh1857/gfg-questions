@@ -1,0 +1,3 @@
+Problem statement -> Find the longest common substring without any repeating chacters.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
