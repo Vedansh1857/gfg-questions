@@ -1,0 +1,3 @@
+Problem statement -> Check if frequencies can be equal.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/check-frequencies4211/1
