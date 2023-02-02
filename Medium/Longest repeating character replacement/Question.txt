@@ -1,0 +1,3 @@
+Problem statement -> returns the longest substring containing same letter after performing specified operations.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/longest-repeating-character-replacement/1
