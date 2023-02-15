@@ -1,0 +1,3 @@
+Problem statement ->  Find the minimum number of squares of any number that sums to N
+
+Problem link -> https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1
