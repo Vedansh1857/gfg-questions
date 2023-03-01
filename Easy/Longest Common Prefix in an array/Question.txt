@@ -1,0 +1,3 @@
+Problem statement -> find the longest common prefix among all strings present in the array.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1
