@@ -1,0 +1,3 @@
+Problem statement -> find the nth fibonacci number. Since the answer can be very large, return the answer modulo 1000000007.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
