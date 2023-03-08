@@ -1,0 +1,3 @@
+Problem statement -> Find the minimum number of coins to make the change. If not possible to make change then return -1.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/number-of-coins1824/1
