@@ -1,0 +1,3 @@
+Problem statement -> Find the maximum sum of a subsequence such that no two numbers in the sequence should be adjacent in the array.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
