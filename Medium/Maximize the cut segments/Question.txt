@@ -1,0 +1,3 @@
+Problem statement -> Given an integer N denoting the Length of a line segment. You need to cut the line segment in such a way that the cut length of a line segment each time is either x , y or z. After performing all the cut operations, your total number of cut segments must be maximum.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/cutted-segments1642/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
