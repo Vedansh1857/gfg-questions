@@ -1,0 +1,3 @@
+Problem statement -> find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
