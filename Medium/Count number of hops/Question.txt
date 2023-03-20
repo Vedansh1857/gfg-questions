@@ -1,0 +1,3 @@
+Problem statement -> A frog jumps either 1, 2, or 3 steps to go to the top. In how many ways can it reach the top. As the answer will be large find the answer modulo 1000000007
+
+Problem link -> https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1
