@@ -1,0 +1,3 @@
+Problem statement -> Given two binary trees, the task is to find if both of them are identical or not. 
+
+Problem link -> https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
