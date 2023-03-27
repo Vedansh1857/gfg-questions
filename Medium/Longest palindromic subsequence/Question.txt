@@ -1,0 +1,3 @@
+Problem statement -> Given a String, find the longest palindromic subsequence.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1
