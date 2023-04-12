@@ -1,0 +1,3 @@
+Problem statement -> Given a BST and an integer. Find the least absolute difference between any node value of the BST and the given integer.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
