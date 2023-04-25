@@ -1,0 +1,3 @@
+Problem statement -> Given an array price of size N, find out the maximum profit that a share trader could have made.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1
