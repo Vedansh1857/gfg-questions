@@ -1,0 +1,3 @@
+Problem statement -> In the stock market, a person buys a stock and sells it on some future date. Given the stock prices of N days in an array A[ ] and a positive integer K, find out the maximum profit a person can make in at-most K transactions.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/maximum-profit4657/1
