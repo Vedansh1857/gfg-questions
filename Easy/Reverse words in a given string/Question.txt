@@ -1,0 +1,3 @@
+Problem statement -> Given a String S, reverse the string without reversing its individual words. Words are separated by dots.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
