@@ -1,0 +1,3 @@
+Problem statement -> Find the minimum number of days on which you need to buy food from the shop so that she can survive the next S days, or determine that it isn’t possible to survive.
+
+Problem link -> https://practice.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island4922/1
