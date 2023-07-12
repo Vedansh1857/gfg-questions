@@ -1,0 +1,3 @@
+Problem link -> https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
+
+Problem statement -> Given two BSTs, return elements of both BSTs in sorted form.
